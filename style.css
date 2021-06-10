@@ -1,0 +1,53 @@
+.col-6 {
+    background-color: rgb(236, 236, 236);
+}
+
+#espaco-login {
+    background-color: #3D7CDA;
+    width: 100%;
+    position: relative;
+}
+
+.titulo {
+    color: white;
+    font-family: cursive;
+    text-align: center;
+}
+
+input[type='email'] {
+    width: 300px;
+    transform: translate(50%, 50%);
+}
+
+input[type='password'] {
+    width: 300px;
+    transform: translate(50%, 50%);
+}
+
+form {
+    width: 100%;
+    margin-top: 60px;
+    text-align: center;
+}
+
+.btn {
+    background-color: #2E2E40;
+    color: white;
+    margin-top: 8px;
+    margin-left: 30px;
+}
+
+.form-group {
+    padding: 20px;
+    padding-bottom: 5px;
+}
+
+.link-primary {
+    margin-left: 190px;
+    font-size: small;
+    color: #2E2E40;
+}
+
+.link-primary:hover {
+    color: #F2F2F2;
+}
